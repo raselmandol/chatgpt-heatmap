@@ -53,5 +53,7 @@ Before you begin, ensure you have the following installed:
 - **Color Map**: Modify the `ListedColormap` in the script to adjust heatmap colors.
 - **Borders**: Adjust `edgecolors` and `linewidths` in the `pcolormesh` function.
 
+## Extra 
 
+You can do the same for Claude, as both have the file named conversations.json.
 
