@@ -26,6 +26,13 @@ Before you begin, ensure you have the following installed:
 4. You will receive a `.zip` file in your email. Download and extract it.
 5. Locate the `conversations.json` file from the extracted data.
 
+## Exporting Claude Data
+
+1. Visit your Claude account [settings](https://claude.ai/settings/account).
+2. Click **Export Data** and follow the instructions.
+3. You will receive a `.zip` file in your email. Download and extract it.
+4. Locate the `conversations.json` file from the extracted data.
+
 
 ## Running the Heatmap
 
